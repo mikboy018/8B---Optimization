@@ -1,7 +1,10 @@
-# README #
 
-Starter project for VRND Performance Bounceback
+Project 8B - Udacity VR Nanodegree - Unity Specialization - VRND Performance Bounceback
+Uses GoogleVR 1.0.3, AVPro (Free), and Arkham Interactive Industrial Texture Pack (Free)
+For HTC Vive
+By: Mike Boyer
+Time editing = Roughly 4 hours.
 
-### What is this repository for? ###
+Find this project on Github! 
+https://github.com/mikboy018/8B---Optimization
 
-* You'll find the main scene at `Assets/PerformanceBounceback/Scenes/Scene0.unity`.
