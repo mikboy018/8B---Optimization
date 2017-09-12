@@ -23,7 +23,7 @@ public class TrampolineMovement : MonoBehaviour {
             time = 0;
             direction = direction * -1;
         }
-        //transform.position += direction * Time.deltaTime * moveSpeed;
-        rb.MovePosition(direction * Time.deltaTime * moveSpeed);	
+        transform.position += direction * Time.deltaTime * moveSpeed;
+        //rb.MovePosition(direction * Time.deltaTime * moveSpeed);	
 	}
 }

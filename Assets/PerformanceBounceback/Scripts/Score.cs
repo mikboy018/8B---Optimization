@@ -21,8 +21,9 @@ public class Score : MonoBehaviour {
         ChangeScore();
         }
 
-    private void ChangeScore()
+    public void ChangeScore()
     {
+        score = gameManager.score;
         if(score > printedScore)
         {
             printedScore = score;
